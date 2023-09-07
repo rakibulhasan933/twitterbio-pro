@@ -19,7 +19,7 @@ export async function POST(request: Request) {
 		stream: true,
 		messages: [
 			{
-				role: 'user',
+				role: "assistant",
 				content: `Generate 2 ${vibe} twitter biographies with no hashtags and clearly labeled "1." and "2.". ${vibe === 'Funny'
 					? "Make sure there is a joke in there and it's a little ridiculous."
 					: null
