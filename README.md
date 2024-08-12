@@ -1,1 +1,1 @@
-       Hello Next.js + Open AI 
+        Hello Next.js + Open AI 
