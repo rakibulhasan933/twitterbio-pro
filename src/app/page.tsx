@@ -1,4 +1,4 @@
-"use client"
+ "use client"
 import { Toaster, toast } from 'react-hot-toast';
 import { useChat } from 'ai/react';
 import { useRef, useState } from 'react';
